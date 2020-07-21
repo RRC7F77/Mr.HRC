@@ -56,7 +56,7 @@ toilet -f big -F gay Albimo22
 echo $green"Stabilkan Jaringan v1 by Albimo22"
 sleep 1
 echo
-ping -s1000 1.1.1.1
+ping -s1000 8.8.4.4
 fi
 
 if [ $bro = 2 ] || [ $bro = 2 ]
@@ -77,7 +77,7 @@ figlet "By Albimo22"
 echo $yellow"Semoga Ale Browsing Lancar"
 sleep 1
 echo
-ping -s1000 216.239.38.120
+ping -s1000 8.0.8.0
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
