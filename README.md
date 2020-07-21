@@ -5,6 +5,6 @@ pkg install figlet
 pkg install php
 pkg install git
 git clone https://github.com/RRC7F77/albimo22/new/Mr.Rrc7F77?readme=1
-cd SPEED
+cd Rrc7F77
 ls
-sh SPEED.sh
+php Rrc7F77.php
