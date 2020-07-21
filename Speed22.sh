@@ -8,7 +8,7 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 sleep 1
 echo
-echo $red
+echo $green
 cat baca.txt
 sleep 20
 echo $green
@@ -18,7 +18,7 @@ echo $white"Author : Albimo22"
 echo $cyan"Kontak : 081344834622"
 echo $red"SUBSCRIBE :" $yellow"Channel Beta Zona"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $yellow"     SELAMAT DATANG SOBAT"
+echo $white"     SELAMAT DATANG SOBAT"
 echo
 echo $yellow"Silahkan Pilih Script Kesukaanmu :"
 echo
