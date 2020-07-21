@@ -14,7 +14,7 @@ sleep 20
 echo $green
 figlet "Speed22"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"Author : Mr. RRC7F77"
+echo $white"Author : Albimo22"
 echo $cyan"Kontak : 081344834622"
 echo $red"SUBSCRIBE :" $yellow"BETAZONA"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
@@ -52,8 +52,8 @@ read -p "Silahkan Pilih No Berapa : "sobat
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-toilet -f big -F gay Mr RRC7F77
-echo $green"Stabilkan Jaringan v1 by Mr RRC7F77"
+toilet -f big -F gay Albimo22
+echo $green"Stabilkan Jaringan v1 by Albimo22"
 sleep 1
 echo
 ping -s1000 1.1.1.1
@@ -62,8 +62,8 @@ fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet -f big -F gay Mr RRC7F77
-echo $yellow"Stabilkan Jaringan v2 by Mr RRC7F77"
+toilet -f big -F gay Albimo22
+echo $yellow"Stabilkan Jaringan v2 by Albimo22"
 sleep 1
 echo
 ping -s1000 8.8.8.8
@@ -73,7 +73,7 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo $blue
-figlet "By Mr RRC7F77"
+figlet "By Albimo22"
 echo $yellow"Semoga Ale Browsing Lancar"
 sleep 1
 echo
@@ -85,7 +85,7 @@ then
 clear
 echo $red
 figlet "Y T v 1"
-echo "Stabilkan jaringan saat nonton Youtube v1 by Mr RRC7F77"
+echo "Stabilkan jaringan saat nonton Youtube v1 by Albimo22"
 sleep 2
 echo
 ping -s1000 74.125.24.91
@@ -96,7 +96,7 @@ then
 clear
 echo $red
 figlet "Y T v 2"
-echo "Stabilkan jaringan saat nonton Youtube v2 by Mr RRC7F77"
+echo "Stabilkan jaringan saat nonton Youtube v2 by Albimo22"
 sleep 2
 echo
 ping -s1000 172.217.194.113
@@ -107,7 +107,7 @@ then
 clear
 echo $blue
 figlet "F B v 1"
-echo "Stabilkan jaringan saat Chattingan Facebook v1 by Mr RRC7F77"
+echo "Stabilkan jaringan saat Chattingan Facebook v1 by Albimo22"
 sleep 2
 echo
 ping -s1000 157.240.7.35
@@ -118,7 +118,7 @@ then
 clear
 echo $blue
 figlet "F B v 2"
-echo "Stabilkan jaringan saat Chattingan Facebook v2 by Mr RRC7F77"
+echo "Stabilkan jaringan saat Chattingan Facebook v2 by Albimo22"
 sleep 2
 echo
 ping -s1000 157.240.25.35
@@ -129,7 +129,7 @@ then
 clear
 echo $purple
 figlet "I G"
-echo "Stabilkan jaringan saat Chattingan Instagram by Mr RRC7F77"
+echo "Stabilkan jaringan saat Chattingan Instagram by Albimo22"
 sleep 2
 echo
 ping -s1000 157.240.7.174
@@ -155,7 +155,7 @@ if [ $bro = 0 ] || [ $bro = 0 ]
 then
 clear
 echo $yellow
-figlet "Mr. RRC7F77  F."
+figlet "Albimo22  F."
 echo $green"SEMOGA ALE BERUNTUNG SOBAT...:)"
 sleep 2
 echo $white"     TO BE CONTINUED..."
@@ -170,7 +170,7 @@ clear
 echo $yellow
 figlet "Dark-Fb"
 sleep 2
-echo $green"Apakah Kamu Yakin Ingin Menginstall Dark-Fb v1.6 By Mr RRC7F77 ?"
+echo $green"Apakah Kamu Yakin Ingin Menginstall Dark-Fb v1.6 By Albimo22 ?"
 sleep 3
 echo $yellow"Kalau tidak tekan ctrl + c"
 sleep 2
