@@ -10,15 +10,15 @@ sleep 1
 echo
 echo $red
 cat baca.txt
-sleep 10
+sleep 20
 echo $green
-figlet "SPEED"
+figlet "Speed22"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"Author : Yadi Fernando"
-echo $cyan"Kontak : 085706249638"
-echo $red"SUBSCRIBE :" $yellow"Official Yadi Fernando"
+echo $white"Author : Albimo22"
+echo $cyan"Kontak : 081344834622"
+echo $red"SUBSCRIBE :" $yellow"Channel Beta Zona"
 echo $purple"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $green"     SELAMAT DATANG BRO"
+echo $yellow"     SELAMAT DATANG SOBAT"
 echo
 echo $yellow"Silahkan Pilih Script Kesukaanmu :"
 echo
@@ -53,7 +53,7 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 toilet -f big -F gay Yadi
-echo $green"Stabilkan Jaringan v1 by Yadi"
+echo $green"Stabilkan Jaringan v1 by Albimo22"
 sleep 1
 echo
 ping -s1000 1.1.1.1
@@ -63,7 +63,7 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 toilet -f big -F gay Yadi
-echo $yellow"Stabilkan Jaringan v2 by Yadi"
+echo $yellow"Stabilkan Jaringan v2 by Albimo22"
 sleep 1
 echo
 ping -s1000 8.8.8.8
@@ -73,7 +73,7 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo $green
-figlet "By Yadi"
+figlet "By Albimo22"
 echo $white"Insya Allah Browsing Lancar"
 sleep 1
 echo
@@ -85,7 +85,7 @@ then
 clear
 echo $red
 figlet "Y T v 1"
-echo "Stabilkan jaringan saat nonton Youtube v1 by Yadi"
+echo "Stabilkan jaringan saat nonton Youtube v1 by Albimo22"
 sleep 2
 echo
 ping -s1000 74.125.24.91
@@ -96,7 +96,7 @@ then
 clear
 echo $red
 figlet "Y T v 2"
-echo "Stabilkan jaringan saat nonton Youtube v2 by Yadi"
+echo "Stabilkan jaringan saat nonton Youtube v2 by Albimo22"
 sleep 2
 echo
 ping -s1000 172.217.194.113
@@ -107,7 +107,7 @@ then
 clear
 echo $blue
 figlet "F B v 1"
-echo "Stabilkan jaringan saat Chattingan Facebook v1 by Yadi"
+echo "Stabilkan jaringan saat Chattingan Facebook v1 by Albimo22"
 sleep 2
 echo
 ping -s1000 157.240.7.35
@@ -118,7 +118,7 @@ then
 clear
 echo $blue
 figlet "F B v 2"
-echo "Stabilkan jaringan saat Chattingan Facebook v2 by Yadi"
+echo "Stabilkan jaringan saat Chattingan Facebook v2 by Albimo22"
 sleep 2
 echo
 ping -s1000 157.240.25.35
@@ -129,7 +129,7 @@ then
 clear
 echo $purple
 figlet "I G"
-echo "Stabilkan jaringan saat Chattingan Instagram by Yadi"
+echo "Stabilkan jaringan saat Chattingan Instagram by Albimo22"
 sleep 2
 echo
 ping -s1000 157.240.7.174
@@ -155,7 +155,7 @@ if [ $bro = 0 ] || [ $bro = 0 ]
 then
 clear
 echo $yellow
-figlet "Yadi  F."
+figlet "Albimo22  F."
 echo $green"SEMOGA HARIMU MENYENANGKAN...:)"
 sleep 2
 echo $white"     TO BE CONTINUED..."
@@ -170,18 +170,18 @@ clear
 echo $yellow
 figlet "Dark-Fb"
 sleep 2
-echo $green"Apakah Kamu Yakin Ingin Menginstall Dark-Fb v1.6 By Yadi ?"
+echo $green"Apakah Kamu Yakin Ingin Menginstall Dark-Fb v1.6 By Albimo22 ?"
 sleep 3
 echo $yellow"Kalau tidak tekan ctrl + c"
 sleep 2
-echo $white"Tapi Kalau Iya, Tunggu Sampai 15 detik"
-sleep 15
+echo $white"Tapi Kalau Iya, Tunggu Sampai 10 detik"
+sleep 10
 pkg update && pkg upgrade
 pkg install git
 pkg install python2
 pip2 install mechanize
 pip2 install requests
-git clone https://github.com/YadiFernando/DARKFB
+git clone https://github.com/Albimo22/DARKFB
 mv DARKFB $HOME
 cd $HOME/DARKFB
 python2 DARKFB.py
